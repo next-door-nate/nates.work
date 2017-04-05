@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "My portfolio"
   spec.homepage      = "https://nates.work"
-  spec.license       = "MIT"
+  spec.license       = "none"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
 
