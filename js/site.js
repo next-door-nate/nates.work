@@ -65,7 +65,7 @@ $(document).ready(function(){
     typeSpeed: 0
   });
 
-  var blurbText = "I'm a Web Designer at <a href='https://boldcommerce.com' class='link--bold'>Bold</a>, located in <a href='https://en.wikipedia.org/wiki/Winnipeg' class='link--wiki'>Winnipeg</a>. When I'm not working on <a href='https://shopify.com' class='link--shopify'>Shopify</a> sites, I also co-host a weekly radio show dedicated to the obscure, funky side of world music, called <a href='http://www.umfm.com/programming/programgrid/334/'>International Feel</a>.";
+  var blurbText = "I'm a Web Designer at <a href='https://boldcommerce.com' class='link--bold'>Bold</a>, located in <a href='https://en.wikipedia.org/wiki/Winnipeg' class='link--wiki'>Winnipeg</a>. When I'm not working on <a href='https://shopify.com' class='link--shopify'>Shopify</a> stores, I also co-host a weekly radio show dedicated to the obscure, funky side of world music, called <a href='http://www.umfm.com/programming/programgrid/334/'>International Feel</a>.";
 
   setTimeout(function(){
     $('.blurb p').typed({
